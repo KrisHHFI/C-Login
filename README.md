@@ -1,6 +1,6 @@
 # C-Login
 
-<img src="https://images.squarespace-cdn.com/content/v1/587b630aebbd1ab22efeeb6b/c23606d2-bc3d-4f00-923f-2ea9c9464293/C-Login+Promo.png"/>
+<img src="C-Login Promo.png"/>
 
 ### About
 
